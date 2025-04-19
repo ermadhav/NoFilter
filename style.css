@@ -1,5 +1,6 @@
 .container {
-    display: flex;       /* Activates flexbox */
-    justify-content: space-evenly; /* Or use 'space-between', 'space-around', 'flex-start', 'flex-end' */
-    align-items: center; /* Aligns items vertically */
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
   }
+  
